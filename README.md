@@ -1,5 +1,5 @@
 # STM32-DMA-Serial-Data-Frame
-该仓库仅上传个人代码模块
+该仓库仅上传串口DMA数据帧代码
 
 # 使用教程
 1. main.c
